@@ -1,0 +1,128 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #003366;
+  /* Navy blue for "Auto" */
+}
+
+h1 span {
+  color: #ff0000;
+  /* Red for "Brief" */
+}
+
+.generate-btn:hover {
+  background-color: #003366;
+  color: white;
+  transform: translateY(-2px);
+  /* Slight lift on hover */
+}
+
+/* Yes/No Section */
+.response-section {
+  text-align: center;
+  margin: 2rem 0;
+  width: 100%;
+  /* Full width */
+  display: flex;
+  justify-content: center;
+  /* Center the buttons */
+}
+
+.response-btn {
+  background-color: white;
+  color: #003366;
+  /* Navy blue */
+  border: 2px solid #003366;
+  border-radius: 25px;
+  padding: 15px 30px;
+  font-size: 1.25rem;
+  /* Increase font size */
+  font-weight: bold;
+  cursor: pointer;
+  margin: 0 20px;
+  /* Increase horizontal spacing */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  /* Adding shadow */
+  transition: transform 0.1s ease-in-out;
+  /* Smooth transition */
+  width: 20%;
+  /* Button width */
+}
+
+.response-btn:hover {
+  background-color: #003366;
+  color: white;
+  transform: translateY(-2px);
+  /* Slight lift on hover */
+}
+
+/* Input Box */
+.input-section {
+  text-align: center;
+  margin-bottom: 2rem;
+  /* Adjusting space below the input box */
+  width: 100%;
+  /* Full width */
+  display: flex;
+  justify-content: center;
+  /* Center the input box */
+}
+
+.input-box {
+  width: 80%;
+  /* Adjust width as needed */
+  height: 240px;
+  /* Increase height */
+  padding: 15px;
+  border: 2px solid #003366;
+  /* Navy blue */
+  border-radius: 10px;
+  font-size: 1.25rem;
+  /* Increase font size */
+  outline: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  /* Adding shadow */
+  transition: box-shadow 0.1s ease-in-out;
+}
+
+.input-box:focus {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  /* Increase shadow on focus */
+}
+
+/* Existing Tailwind Utility Extension */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

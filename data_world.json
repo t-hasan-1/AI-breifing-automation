@@ -1,0 +1,396 @@
+{
+    "status": "ok",
+    "totalResults": 58,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The-sun.com"
+            },
+            "author": "Kathleen Livingstone",
+            "title": "UPDATE: Mayoral candidate plans to let AI bot run Cheyenne, Wyoming...",
+            "description": "ARTIFICIAL intelligence has officially run for office in what may be the country’s first election with a robot on the ballot. Victor Miller has always been a big fan of sci-fi books, so it\b…",
+            "url": "https://www.the-sun.com/tech/12265515/ai-candidate-mayor-victor-miller-cheyanne-wyoming/",
+            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2024/08/es_ai-wyoming_offplat.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2024-08-22T23:37:36Z",
+            "content": "ARTIFICIAL intelligence has officially run for office in what may be the country's first election with a robot on the ballot.\r\nVictor Miller has always been a big fan of sci-fi books, so it's no surp… [+5290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Project Syndicate"
+            },
+            "author": "Arvind Subramanian",
+            "title": "The Paradox of China’s Globalization",
+            "description": "Before the United States and Europe retaliate once again against China for supposedly exporting its excess capacity, it is critical to understand the stubborn, even mystifying, resilience of the Chinese export juggernaut. This would be more useful than adopti…",
+            "url": "https://www.project-syndicate.org/commentary/china-increasing-share-of-global-exports-defies-conventional-thinking-by-arvind-subramanian-2024-08",
+            "urlToImage": "https://webapi.project-syndicate.org/library/56d52c1beacffb2914f4b6935d62fa3f.2-1-super.1.jpg",
+            "publishedAt": "2024-08-22T08:21:27Z",
+            "content": "Before the United States and Europe retaliate once again against China for supposedly exporting its excess capacity, it is critical to understand the stubborn, even mystifying, resilience of the Chin… [+5893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Lambert Strether",
+            "title": "Links 8/22/2024",
+            "description": "Our realistic daily links",
+            "url": "https://www.nakedcapitalism.com/2024/08/links-8-22-2024.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/08/Prairie_Dog.jpg",
+            "publishedAt": "2024-08-22T10:58:17Z",
+            "content": "What Jay Powell should say at Jackson Hole FT\r\nTD Bank Sets Aside $2.6 Billion for Possible U.S. Anti-Money Laundering Penalties WSJ\r\nRevisiting How Many People Have Filed Bankruptcy Credit Slips\r\nCl… [+6368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Star Online"
+            },
+            "author": "GANESHWARAN KANA",
+            "title": "Economic outlook looking better",
+            "description": "PETALING JAYA: Once perceived as a regional laggard, Malaysia is now making headlines for its outperforming economy and stock market, amid an influx of investments into new data centres, artificial intelligence (AI), and semiconductors. Read full story",
+            "url": "https://www.thestar.com.my/news/nation/2024/08/23/economic-outlook-looking-better",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/08/23/2873463.jpeg",
+            "publishedAt": "2024-08-22T16:00:00Z",
+            "content": "Growing GDP, top-shelf investments are signs investor confidence on the rise\r\nPETALING JAYA: Once perceived as a regional laggard, Malaysia is now making headlines for its outperforming economy and s… [+4843 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "GitHub fixed a new critical flaw in the GitHub Enterprise Server",
+            "description": "GitHub addressed three vulnerabilities in its GitHub Enterprise Server product, including a critical authentication flaw. GitHub addressed three security vulnerabilities impacting the GitHub Enterprise Server (GHES), including a critical flaw tracked as CVE-2…",
+            "url": "https://securityaffairs.com/167387/security/github-enterprise-server-critical-flaw.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/GitHub-flaw.jpg",
+            "publishedAt": "2024-08-22T07:08:23Z",
+            "content": "GitHub fixed a new critical flaw in the GitHub Enterprise Server \r\n | Experts disclosed a critical information-disclosure flaw in Microsoft Copilot Studio\r\n | North Korea-linked APT used a new RAT ca… [+93924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "Google addressed the ninth actively exploited Chrome zero-day this year",
+            "description": "Google released emergency security updates to fix the ninth actively exploited Chrome zero-day vulnerability this year. ​​Google released an emergency security update to address a Chrome zero-day vulnerability, tracked as CVE-2024-7971, that is actively explo…",
+            "url": "https://securityaffairs.com/167403/hacking/9th-chrome-zero-day-2024-html.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/03/google-chrome-bounty-program.jpg",
+            "publishedAt": "2024-08-22T08:10:43Z",
+            "content": "GitHub fixed a new critical flaw in the GitHub Enterprise Server \r\n | Experts disclosed a critical information-disclosure flaw in Microsoft Copilot Studio\r\n | North Korea-linked APT used a new RAT ca… [+93924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "SolarWinds fixed a hardcoded credential issue in Web Help Desk",
+            "description": "SolarWinds fixed a hardcoded credential flaw in its Web Help Desk (WHD) software that could allow attackers to gain unauthorized access to vulnerable instances. SolarWinds has addressed a new security flaw, tracked as CVE-2024-28987 (CVSS score of 9.1) in its…",
+            "url": "https://securityaffairs.com/167408/hacking/solarwinds-hardcoded-credential-flaw-web-help-desk.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/03/solarwinds.png",
+            "publishedAt": "2024-08-22T17:27:57Z",
+            "content": "SolarWinds fixed a hardcoded credential issue in Web Help Desk\r\n | A cyberattack disrupted operations of US chipmaker Microchip Technology\r\n | GitHub fixed a new critical flaw in the GitHub Enterpris… [+94067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "U.S. CISA adds Dahua IP Camera, Linux Kernel and Microsoft Exchange Server bugs to its Known Exploited Vulnerabilities catalog",
+            "description": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Dahua IP Camera, Linux Kernel and Microsoft Exchange Server bugs to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the follo…",
+            "url": "https://securityaffairs.com/167414/uncategorized/u-s-cisa-dahua-ip-camera-linux-kernel-microsoft-exchange-server-bugs-its-known-exploited-vulnerabilities-catalog.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg",
+            "publishedAt": "2024-08-22T18:07:38Z",
+            "content": "SolarWinds fixed a hardcoded credential issue in Web Help Desk\r\n | A cyberattack disrupted operations of US chipmaker Microchip Technology\r\n | GitHub fixed a new critical flaw in the GitHub Enterpris… [+94067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Securityaffairs.com"
+            },
+            "author": "Pierluigi Paganini",
+            "title": "A cyberattack hit US oil giant Halliburton",
+            "description": "US oil giant Halliburton announced that it was hit by a cyberattack that is affecting operations at its Houston, Texas offices. Halliburton, a major U.S. oil company, announced that a cyberattack hit its IT infrastructure, particularly impacting operations at…",
+            "url": "https://securityaffairs.com/167435/hacking/halliburton-cyberattack.html",
+            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/08/image-32.png",
+            "publishedAt": "2024-08-22T23:46:03Z",
+            "content": "A cyberattack hit US oil giant Halliburton\r\n | SolarWinds fixed a hardcoded credential issue in Web Help Desk\r\n | A cyberattack disrupted operations of US chipmaker Microchip Technology\r\n | GitHub fi… [+94114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Human Rights Watch"
+            },
+            "author": "Human Rights Watch",
+            "title": "New Ai Weiwei Rights-Inspired Limited Edition Lithographs",
+            "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n © JRP|Editions\n \n \n\n\n \n(Geneva) – The renowned Chinese artist and activist Ai Weiwei has partnered with Human Rights Watch and the Swiss art publisher JRP|Editions on three series of limited edition lithographs that …",
+            "url": "https://www.hrw.org/news/2024/08/22/new-ai-weiwei-rights-inspired-limited-edition-lithographs",
+            "urlToImage": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2024/08/202408global_art_aiweiwei.jpg?h=e5aec6c8&itok=UJuAYy_7",
+            "publishedAt": "2024-08-22T04:00:00Z",
+            "content": "(Geneva) The renowned Chinese artist and activist Ai Weiwei has partnered with Human Rights Watch and the Swiss art publisher JRP|Editions on three series of limited edition lithographs that will be … [+3356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technewsworld.com"
+            },
+            "author": "TechNewsWorld",
+            "title": "Global AI Safety Hampered by Indecision, Regulatory Delays",
+            "description": "Governments seek to create security safeguards around artificial intelligence, but roadblocks and indecision are delaying cross-nation agreements on priorities and obstacles to avoid. The post Global AI Safety Hampered by Indecision, Regulatory Delays appeare…",
+            "url": "https://www.technewsworld.com/story/global-ai-safety-hampered-by-indecision-regulatory-delays-179335.html",
+            "urlToImage": "https://www.technewsworld.com/wp-content/uploads/sites/3/2024/08/AI-scales-of-justice.jpg",
+            "publishedAt": "2024-08-22T12:00:43Z",
+            "content": "Governments seek to create security safeguards around artificial intelligence, but roadblocks and indecision are delaying cross-nation agreements on priorities and obstacles to avoid.\r\nIn November 20… [+7009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dothewoo.io"
+            },
+            "author": "BobWP",
+            "title": "Do The Woo Community: Development, Digital Accessibility and AI with Niels de Blaauw and Marius Vetrici",
+            "description": "This show is sponsored by…\r\n\n\n\n\n\n\n\n\n\n\n\r\n\n\r\n\n\r\n\n\n\n\n\n GoDaddy: Build your clients sites using the flexibility of a Managed WooCommerce Store from GoDaddy. If you clients are looking to expand their store, you can deliver them a fully-customized WooCommerce site…",
+            "url": "https://dothewoo.io/development-digital-accessibility-and-ai-with-niels-de-blaauw-and-marius-vetrici/",
+            "urlToImage": "https://i0.wp.com/dothewoo.io/wp-content/uploads/2024/08/DTW-Podcast-Woo-Agency-Chat-Episode-545.jpg?resize=1200%2C1200&ssl=1",
+            "publishedAt": "2024-08-22T09:11:33Z",
+            "content": "Niels:I am Niels de Blaauw, and I’m a WordPress enthusiast with a development background. I work as the Technical Director at a Dutch WordPress agency called Level Level. And with me today is Marius … [+36054 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Shanthi Rexaline",
+            "title": "Peter Schiff Warns Dollar On 'Verge Of A Total Collapse' As Greenback Succumbs To Rising Rate Cut Bets: 'You're Gonna See Some Serious S**t'",
+            "description": "Rising rate cut bets have proved negative for the U.S. dollar, with an index measuring the performance of the greenback against a basket of major global...",
+            "url": "https://finance.yahoo.com/news/peter-schiff-warns-dollar-verge-161008938.html",
+            "urlToImage": "https://media.zenfs.com/en/Benzinga/f1b857938cdb47704da97c7c1e13aebc",
+            "publishedAt": "2024-08-22T16:10:08Z",
+            "content": "Peter Schiff Warns Dollar On 'Verge Of A Total Collapse' As Greenback Succumbs To Rising Rate Cut Bets: 'You're Gonna See Some Serious S**t'\r\nRising rate cut bets have proved negative for the U.S. do… [+3342 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Researchbuzz.me"
+            },
+            "author": "ResearchBuzz",
+            "title": "Creating Privacy Policies, Google, OpenAI, More: Thursday ResearchBuzz, August 22, 2024",
+            "description": "NEW RESOURCES Information Commissioner’s Office (UK): New tool helps small businesses create privacy notices. “In just a few simple steps, the new privacy notice generator can create tailored privacy notices relevant to […]",
+            "url": "https://researchbuzz.me/2024/08/22/creating-privacy-policies-google-openai-more-thursday-researchbuzz-august-22-2024/",
+            "urlToImage": "https://s0.wp.com/i/blank.jpg",
+            "publishedAt": "2024-08-22T12:01:54Z",
+            "content": "NEW RESOURCES \r\nInformation Commissioner’s Office (UK): New tool helps small businesses create privacy notices. “In just a few simple steps, the new privacy notice generator can create tailored priva… [+5925 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MediaNama.com"
+            },
+            "author": "Vallari Sanzgiri",
+            "title": "Monsoon Parliament Session: MPs Raise Questions About Fake News Tackling, Big Tech, and Draft Digital Bill",
+            "description": "Indian lawmakers posed a range of questions regarding the use of AI to tackle fake news, the Digital India Bill, how the Grievance Appellate Committees are addressing issues etc in a recent parliamentary session. MediaNama further investigates the matter with…",
+            "url": "https://www.medianama.com/2024/08/223-monsoon-parliament-session-mps-raise-questions-about-fake-news-tackling-big-tech-and-draft-digital-bill/",
+            "urlToImage": "https://www.medianama.com/wp-content/uploads/2019/05/fake-news-image.jpg.jpg",
+            "publishedAt": "2024-08-22T05:57:56Z",
+            "content": "Indian lawmakers posed a range of questions about the Indian digital ecosystem during the recently concluded parliamentary session. Many questions centred on newly introduced policies by the Indian g… [+7479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tech Xplore"
+            },
+            "author": "Shaoyu Yuan",
+            "title": "China leans into using AI—even as the US leads in developing it",
+            "description": "In the competitive arena of global technology, China's ambitions in artificial intelligence stand out—not just for their scale but for their distinct strategic approach.",
+            "url": "https://techxplore.com/news/2024-08-china-ai.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/-ai.jpg",
+            "publishedAt": "2024-08-22T15:11:57Z",
+            "content": "In the competitive arena of global technology, China's ambitions in artificial intelligence stand outnot just for their scale but for their distinct strategic approach.\r\nIn 2017, the Chinese Communis… [+6873 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itsfoss.com"
+            },
+            "author": "Sourav Rudra",
+            "title": "Indian State Continues Its Successful Journey With Linux at Schools",
+            "description": "With governments around the world increasingly warming up to the idea of open-source software being used in their offices. Local governments and public organizations in India have been no stranger to trying out open-source operating systems and tools in their…",
+            "url": "https://news.itsfoss.com/india-kite-gnu/",
+            "urlToImage": "https://news.itsfoss.com/content/images/2024/08/kite-foss.png",
+            "publishedAt": "2024-08-22T21:05:32Z",
+            "content": "With governments around the world increasingly warming up to the idea of open-source software being used in their offices. Local governments and public organizations in India have been no stranger to… [+1939 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Vinson Kurian",
+            "title": "Large Indian companies outpace peers in digitalisation, says global survey",
+            "description": "India excels in digital transformation with significant investments, workforce challenges, and the need for strong policies highlighted in a survey.",
+            "url": "https://www.thehindubusinessline.com/info-tech/large-indian-companies-outpace-peers-in-digitalisation-says-global-survey/article68553580.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/oewnb7/article68553646.ece/alternates/LANDSCAPE_1200/IMG_iStock-1892817639_2_1_HMCNQTBO.jpg",
+            "publishedAt": "2024-08-22T07:36:32Z",
+            "content": "India shows remarkable progress in digital transformation with an aggressive drive supported by substantial investments, says a global survey 2024AI in the Enterprise, commissioned by leading digital… [+2540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wallpaper*"
+            },
+            "author": "Jonathan Bell",
+            "title": "We take Audi’s new Q6 e-tron quattro around and across the fjords of Norway",
+            "description": "The new Audi Q6 e-tron quattro is a pure EV that marks a new design direction for the German brand, setting new tech standards along the way. Transportation Editor, Jonathan Bell, takes it for a drive",
+            "url": "https://www.wallpaper.com/transportation/audi-q6-e-tron-quattro-test-drive-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jMtniNZ4iguYd3czynJhse-1200-80.jpg",
+            "publishedAt": "2024-08-22T18:41:30Z",
+            "content": "Launched during this year’s Milan Design Week, the new Audi Q6 e-tron marks the start of Audi’s next generation line-up of EVs. The company’s first forays into the world of electrification were leftf… [+6866 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foreign Policy"
+            },
+            "author": "Jack Detsch, Robbie Gramer and Amy Mackinnon",
+            "title": "How Is Foreign Policy Driving the U.S. Vote?",
+            "description": "A few wedge issues could help determine who ends up in the White House.",
+            "url": "https://foreignpolicy.com/2024/08/22/us-election-2024-kamala-harris-trump-israel-gaza-polling/",
+            "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2024/08/GettyImages-2167851469.jpg?w=1000",
+            "publishedAt": "2024-08-22T19:54:42Z",
+            "content": "Welcome back to Foreign Policys SitRep.Welcome back to Foreign Policys SitRep.\r\nRobbie here, starting with some bittersweet news: After nearly eight years, I am leaving Foreign Policy at the end of t… [+9740 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Economictimes.com"
+            },
+            "author": null,
+            "title": "Masters of imitation: Copying has been a foundational element of innovation in the most successful tech ecosystems",
+            "description": "The article delves into how many successful tech companies, such as Apple, Facebook, and firms from China, build on existing ideas rather than inventing anew. It focuses on Ola Cabs and Bhavish Aggarwal, demonstrating how they have innovated in the Indian mar…",
+            "url": "https://m.economictimes.com/opinion/et-commentary/master-of-imitation-copying-has-been-a-foundational-element-of-innovation-in-the-most-successful-tech-ecosystems/articleshow/112719342.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-112719409,width-1200,height-630,imgsize-79004,overlay-economictimes/photo.jpg",
+            "publishedAt": "2024-08-22T17:31:59Z",
+            "content": "When I celebrated Ola Cabs' Bhavish Aggarwal's recent IPO achievements on social media, I was met with a wave of comments accusing him of copying ideas to build his company. It's a familiar criticism… [+4750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Buzzmachine.com"
+            },
+            "author": "Jeff Jarvis",
+            "title": "California’s Deal for News",
+            "description": "A deal has just been struck in California by Assembly member Buffy Wicks that averts what could have been, in my opinion, disastrous legislation written by lobbyists to benefit primarily incumbent, investor- and hedge-fund-controlled news media in and out of …",
+            "url": "https://buzzmachine.com/?p=17687",
+            "urlToImage": "https://i0.wp.com/buzzmachine.com/wp-content/uploads/1047px-Sacramento-California-State-Capitol-640x440.jpg",
+            "publishedAt": "2024-08-22T15:32:29Z",
+            "content": "A deal has just been struck in California by Assembly member Buffy Wicks that averts what could have been, in my opinion, disastrous legislation written by lobbyists to benefit primarily incumbent, i… [+10468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Okfn.org"
+            },
+            "author": "Open Knowledge Network",
+            "title": "‘Open knowledge is still seen as very technical in Asia, which excludes a lot of people’",
+            "description": "Members of the Open Knowledge Network from the Asia Hub join us for the thirteenth #OKFN100, a series of conversations about the challenges and opportunities facing the open movement.",
+            "url": "https://blog.okfn.org/2024/08/22/open-knowledge-is-still-seen-as-very-technical-in-asia-which-excludes-a-lot-of-people/",
+            "urlToImage": "https://blog.okfn.org/wp-content/files/2024/08/100-13-Asia-Hub.png",
+            "publishedAt": "2024-08-22T08:59:23Z",
+            "content": "This is the thirteenth conversation of the 100+ Conversations to Inspire Our New Direction (#OKFN100) project.\r\nSince 2023, we are meeting with more than 100 people to discuss the future of open know… [+23898 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Defense One"
+            },
+            "author": "Lauren C. Williams",
+            "title": "Mike Gallagher talks priorities as Palantir’s new defense business chief",
+            "description": "The former lawmaker is looking to draw on a decade of national security policy work in the new position.",
+            "url": "https://www.defenseone.com/business/2024/08/mike-gallagher-talks-priorities-palantirs-new-defense-business-chief/398981/",
+            "urlToImage": "https://cdn.defenseone.com/media/img/cd/2024/08/21/GettyImages_2147883587/open-graph.jpg",
+            "publishedAt": "2024-08-22T12:00:00Z",
+            "content": "Palantir Technologies has named Mike Gallagher, the former congressman who led the House Select Committee on China, to lead its defense business, the company announced Thursday. \r\nThe Wisconsin Repub… [+8621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Plos.org"
+            },
+            "author": "Lorraine Chapot, Rebecca Hibbard, Kurnia Bagus Ariyanto, Kusnul Yuli Maulana, Havan Yusuf, Widya Febriyani, Angus Cameron, Mathilde Paul, Timothée Vergne, Céline Faverjon",
+            "title": "Needs and capabilities for improving poultry production and health management in Indonesia",
+            "description": "In Indonesia, the development of the poultry industry is facing numerous challenges. Major constraints include high disease burdens, large fluctuations in farm input and output prices, and inadequate biosecurity. Timely and reliable information about animal p…",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0308379",
+            "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0308379.t001&size=inline",
+            "publishedAt": "2024-08-22T14:00:00Z",
+            "content": "Citation: Chapot L, Hibbard R, Ariyanto KB, Maulana KY, Yusuf H, Febriyani W, et al. (2024) Needs and capabilities for improving poultry production and health management in Indonesia. PLoS ONE 19(8):… [+51122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "FN Media Group LLC",
+            "title": "Artificial Intelligence Influence on Global E-Commerce Market Expected to Skyrocket to $25 Billion By 2032",
+            "description": "PALM BEACH, Fla., Aug. 22, 2024 (GLOBE NEWSWIRE) -- FN Media Group News Commentary - Experts see that the Global Artificial Intelligence in E-Commerce market is poised for remarkable growth in coming years. This burgeoning market has witnessed significant exp…",
+            "url": "https://www.globenewswire.com/news-release/2024/08/22/2934218/0/en/Artificial-Intelligence-Influence-on-Global-E-Commerce-Market-Expected-to-Skyrocket-to-25-Billion-By-2032.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/f326183f-8829-42af-8851-525b1d7503ed",
+            "publishedAt": "2024-08-22T12:45:00Z",
+            "content": "PALM BEACH, Fla., Aug. 22, 2024 (GLOBE NEWSWIRE) -- FN Media Group News Commentary - Experts see that the Global Artificial Intelligence in E-Commerce market is poised for remarkable growth in coming… [+15576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Histalk2.com"
+            },
+            "author": "Mr. HIStalk",
+            "title": "News 8/23/24",
+            "description": "Top News Home testing kit vendor LetsGetChecked will acquire pharmacy ...",
+            "url": "https://histalk2.com/2024/08/22/news-8-23-24/",
+            "urlToImage": null,
+            "publishedAt": "2024-08-22T19:33:21Z",
+            "content": "Top News\r\nHome testing kit vendor LetsGetChecked will acquire pharmacy fulfillment company Truepill in a deal worth $525 million. \r\nThe acquisition involves just $25 million in cash for Truepill, whi… [+7599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PR Newswire UK"
+            },
+            "author": null,
+            "title": "Image Recognition Market to Hit USD 123.97 Billion by 2030 growing at a CAGR of 15.5 percent",
+            "description": "Maximize Market Research has published a detailed analytical report on the Image Recognition Market. PUNE, India, Aug. 22, 2024 /PRNewswire/ -- Advancements in Artificial Intelligence and machine learning have made image recognition technology increasingly es…",
+            "url": "https://www.prnewswire.co.uk/news-releases/image-recognition-market-to-hit-usd-123-97-billion-by-2030-growing-at-a-cagr-of-15-5-percent-302228621.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2457992/Maximize_Market_Research_Logo.jpg?p=facebook",
+            "publishedAt": "2024-08-22T14:15:00Z",
+            "content": "Maximize Market Research has published a detailed analytical report on the Image Recognition Market.\r\nPUNE, India, Aug. 22, 2024 /PRNewswire/ -- Advancements in Artificial Intelligence and machine le… [+10635 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ETtech",
+            "title": "SC denies relief to Byju’s; China back in India’s electronics play",
+            "description": "In another blow to Byju’s, the Supreme Court has once again refused to halt the insolvency proceedings against the embattled edtech startup. This and more in today’s ETtech Top 5.",
+            "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/sc-denies-relief-to-byjus-china-back-in-indias-electronics-play/articleshow/112715256.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-112715256,width-1070,height-580,imgsize-1616481,overlay-ettech/photo.jpg",
+            "publishedAt": "2024-08-22T13:30:06Z",
+            "content": "In another blow to Byjus, the Supreme Court has once again refused to halt the insolvency proceedings against the edtech startup. This and more in todays ETtech Top 5.Also in the letter:Taxi, auto ri… [+6558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComputerWeekly.com"
+            },
+            "author": "Aaron Tan",
+            "title": "The rise and rise of open source in China",
+            "description": "China’s embrace of open-source software has evolved into a powerful force in the global technology landscape, driving innovations in cloud computing, AI and other areas",
+            "url": "https://www.computerweekly.com/news/366608127/The-rise-and-rise-of-open-source-in-China",
+            "urlToImage": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero Images/china-flag-fotolia.jpg",
+            "publishedAt": "2024-08-22T05:15:00Z",
+            "content": "As the world marvelled at Chinas rapid economic transformation at the start of the 21st century, a quiet revolution was brewing in the countrys technology sector.\r\nDriven by a strategic vision to red… [+4333 chars]"
+        }
+    ]
+}
