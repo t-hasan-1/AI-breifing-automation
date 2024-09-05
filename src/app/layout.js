@@ -128,7 +128,7 @@ export default function RootLayout({ children }) {
     const summary = content
       .split(/[.!?]/g)
       .filter((sentence) => sentence.trim())
-      .slice(0, 10)
+      .slice(0, 5)
       .join(".");
 
     return `Title: ${title}\nAuthor: ${author}\nDate: ${publishedAt}\nURL: ${url}\n\n${summary}.`;
